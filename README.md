@@ -1,2 +1,0 @@
-# PWNZ
-Egregiously Impressive Repository
